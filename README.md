@@ -22,5 +22,4 @@ query, validate, and edit XML documents.
 Due to limitations of the way how MS Windows works with batch files, it's recommended to place the script in a folder such as "D:/51job-resume-viewer" and processes XML from folders with short names and without special characters.
 
 Credits to:
-Dave Benham for REPL.Bat
-The XMLStarlet Developers
+Dave Benham for REPL.Bat and The XMLStarlet developers
